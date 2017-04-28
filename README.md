@@ -19,6 +19,7 @@ A small utility to record Android device screen to an optimized GIF so you can p
 ```
 brew install ffmpeg
 ```
+or you can download at https://ffmpeg.org/download.html and config env in $PATH (.bash_profile)
 
 ##### Linux
 
@@ -38,7 +39,7 @@ Windows support was not tested as of yet. [Zeranoe's static builds](http://ffmpe
 ## Installation
 
 ```
-pip install robogif
+sudo pip install robogif
 ```
 
 ## Usage
